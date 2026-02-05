@@ -4,6 +4,6 @@
 
 * Наше решение существует в 2 вариантах RAG ( классический) и AI ( Perplexity API + Gradio UI )
 
-** Cсылки
-** https://colab.research.google.com/drive/1S3F8jNFD7vVdDBbR7GQKs25X7k1pdtDs  RAG
-** https://colab.research.google.com/drive/1fX-9ULx35dKCZuJoyBIUyRFZwrrN97Zq?usp=sharing   AI
+* Cсылки
+* https://colab.research.google.com/drive/1S3F8jNFD7vVdDBbR7GQKs25X7k1pdtDs  RAG
+* https://colab.research.google.com/drive/1fX-9ULx35dKCZuJoyBIUyRFZwrrN97Zq?usp=sharing   AI
