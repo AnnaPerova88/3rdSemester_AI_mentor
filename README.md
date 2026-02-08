@@ -7,3 +7,7 @@
 * Cсылки
 * https://colab.research.google.com/drive/1S3F8jNFD7vVdDBbR7GQKs25X7k1pdtDs  RAG
 * https://colab.research.google.com/drive/1fX-9ULx35dKCZuJoyBIUyRFZwrrN97Zq?usp=sharing   AI
+
+## 🎥 Видеодемонстрация
+
+[![Превью видео](https://img.shields.io/badge/🎬_Посмотреть_видео-10.5_MB-blue?style=for-the-badge)](https://github.com/AnnaPerova88/3rdSemester_AI_mentor/blob/main/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-29-12-2025%2015_19_01%20(online-video-cutter.com).mp4)
