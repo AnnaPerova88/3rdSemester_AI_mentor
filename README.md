@@ -19,16 +19,6 @@
 * Python 3.x — бэкенд-логика
 * Requests — HTTP-запросы к API
 
-#### Наше решение существует в 2 вариантах RAG ( классический) и AI ( Perplexity API + Gradio UI )
-Cсылки
-* https://colab.research.google.com/drive/1S3F8jNFD7vVdDBbR7GQKs25X7k1pdtDs  RAG
-* https://colab.research.google.com/drive/1fX-9ULx35dKCZuJoyBIUyRFZwrrN97Zq?usp=sharing   AI
-
-#### 🎥 Видеодемонстрация
-
-[![Превью видео](https://img.shields.io/badge/🎬_Посмотреть_видео-10.5_MB-blue?style=for-the-badge)](https://github.com/AnnaPerova88/3rdSemester_AI_mentor/blob/main/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-29-12-2025%2015_19_01%20(online-video-cutter.com).mp4)
-
-
 📖 Как пользоваться
 * Выберите область — ML, DL, NLP, LLM или Diffusion Models
 * Выберите уровень — Beginner, Intermediate или Advanced
@@ -42,3 +32,12 @@ Cсылки
 * Вопросы для самопроверки
 * Предоставляются рекомендуемые темы для дальнейшего изучения
 * Продолжайте обучение — выберите следующую тему из рекомендаций
+
+#### Наше решение существует в 2 вариантах RAG ( классический) и AI ( Perplexity API + Gradio UI )
+Cсылки
+* https://colab.research.google.com/drive/1S3F8jNFD7vVdDBbR7GQKs25X7k1pdtDs  RAG
+* https://colab.research.google.com/drive/1fX-9ULx35dKCZuJoyBIUyRFZwrrN97Zq?usp=sharing   AI
+
+#### 🎥 Видеодемонстрация
+
+[![Превью видео](https://img.shields.io/badge/🎬_Посмотреть_видео-10.5_MB-blue?style=for-the-badge)](https://github.com/AnnaPerova88/3rdSemester_AI_mentor/blob/main/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-29-12-2025%2015_19_01%20(online-video-cutter.com).mp4)
