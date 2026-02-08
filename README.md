@@ -54,8 +54,8 @@ AI Mentor — это интерактивный чат-бот, разработ�
 * export PERPLEXITY_API_KEY="ваш_ключ_api"
 * Или установите в коде: os.environ["PERPLEXITY_API_KEY"] = "ваш_ключ"
 
-* **4. Запустите AI-mentor в Gradio**
-python ai_tutor_app.py
+* **4. Запустите AI-mentor в Сolab. Для удобства пользователя - есть удобный UI, сделанный в Gradio UI**
+* https://colab.research.google.com/drive/1fX-9ULx35dKCZuJoyBIUyRFZwrrN97Zq?usp=sharing   AI
 
 #### Наше решение существует в 2 вариантах RAG ( классический) и AI ( Perplexity API + Gradio UI )
 Cсылки
