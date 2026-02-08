@@ -44,14 +44,17 @@ AI Mentor — это интерактивный чат-бот, разработ�
 Инструкция по запуску: 
 
 * **1. Клонируйте репозиторий**
-git clone https://github.com/AnnaPerova88/3rdSemester_AI_mentor.git
-cd 3rdSemester_AI_mentor
+* git clone https://github.com/AnnaPerova88/3rdSemester_AI_mentor.git
+* cd 3rdSemester_AI_mentor
+
 * **2. Установите зависимости**
-pip install gradio requests
+* pip install gradio requests
+
 * **3. Настройте API ключ**
-export PERPLEXITY_API_KEY="ваш_ключ_api"
-Или установите в коде: os.environ["PERPLEXITY_API_KEY"] = "ваш_ключ"
-* **4. Запустите приложение**
+* export PERPLEXITY_API_KEY="ваш_ключ_api"
+* Или установите в коде: os.environ["PERPLEXITY_API_KEY"] = "ваш_ключ"
+
+* **4. Запустите AI-mentor в Gradio**
 python ai_tutor_app.py
 
 #### Наше решение существует в 2 вариантах RAG ( классический) и AI ( Perplexity API + Gradio UI )
